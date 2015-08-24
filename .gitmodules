@@ -2,3 +2,7 @@
 	path = sample2
 	url = https://github.com/MunwarMMR/Sample1
 	branch = master
+[submodule "sample3"]
+	path = sample3
+	url = https://github.com/MunwarMMR/Sample3
+	branch = master
