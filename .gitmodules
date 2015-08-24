@@ -1,0 +1,4 @@
+[submodule "sample2"]
+	path = sample2
+	url = https://github.com/MunwarMMR/Sample1
+	branch = master
